@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SendGridApiKey": "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",
+    "EmailSender": "tudor.hoinaru@code-ventures.ro"
+  }
+}
